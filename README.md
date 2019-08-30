@@ -19,9 +19,9 @@ Describe the time you spent on the project.
 ### Optional
 
  * [x] Add custom styling to the calculator inputs
- * [x] Remember the bill amount when the user re-opens the browser
- * [x] Use locale specific currency and currency separators.
- * [x] Add a light/dark color theme toggle on the page
+ * [] Remember the bill amount when the user re-opens the browser
+ * [] Use locale specific currency and currency separators.
+ * [] Add a light/dark color theme toggle on the page
 
 ### Extra
 
