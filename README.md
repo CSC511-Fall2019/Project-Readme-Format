@@ -7,7 +7,7 @@ This is a short project description providing details about what this applicatio
 ## Time spent
 Describe the time you spent on the project.
  * Tutorials, research: 2 hours
- * Code requirements: 1 hour
+ * Coding required stories: 1 hour
  * Optional and extras: 2 hours
 
 ## User stories
