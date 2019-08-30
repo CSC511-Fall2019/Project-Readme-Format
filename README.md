@@ -19,7 +19,7 @@ Describe the time you spent on the project.
 
 ### Optional
 
- * [x] Add custom CSS to the calculator inputs
+ * [ ] Add custom CSS to the calculator inputs
  * [ ] Add a light/dark color theme toggle on the page
  * [ ] User can enter tax amount
  * [ ] Page is optimized for the viewport/browser size (i.e. scales to mobile & desktop sizes)
@@ -33,8 +33,9 @@ Describe the time you spent on the project.
 
 ## GIF Walkthrough
 
+Markdown code to embed a GIF in your README file:
 ```
-![Walkthrough GIF](path/to/gif)
+![Walkthrough GIF](path/to/gif.gif)
 ```
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
