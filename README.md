@@ -37,4 +37,4 @@ Spent some additional time researching and playing with color options, and looki
 ![Walkthrough GIF](path/to/gif)
 ```
 
-GIF created with LiceCap.
+GIF created with [LiceCap](https://www.cockos.com/licecap/).
