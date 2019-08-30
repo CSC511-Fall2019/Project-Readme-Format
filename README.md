@@ -1,6 +1,7 @@
 # Project Name
 
 Author: Insert Name Here
+
 This is a short project description providing details about what this application does.
 
 ## Time spent
