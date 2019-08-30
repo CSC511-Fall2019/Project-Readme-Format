@@ -24,7 +24,7 @@ Describe the time you spent on the project.
  * [ ] User can enter tax amount
  * [ ] Page is optimized for the viewport/browser size (i.e. scales to mobile & desktop sizes)
  * [ ] Remember the previous bill amount when the user re-opens the browser
- * [ ] Use locale specific currency and currency separators.
+ * [ ] Use [locale specific](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat) currency and currency separators.
 
 ### Extra
 
