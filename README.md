@@ -39,6 +39,6 @@ Describe the time you spent on the project.
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
-## Notes
+## Notes & shoutouts
 
-Tell us more about your journey here or resources used. e.g. "Spent some additional time researching and playing with color options via CSS, and looking at MDN to understand localStorage."
+Tell us more about your journey here or resources used. e.g. "Spent some additional time researching and playing with color options via CSS, and looking at MDN to understand localStorage. Shoutout to Luke for helping me with that controller issue!"
