@@ -13,23 +13,23 @@ Describe the time you spent on the project.
 ## User stories
 
 ### Required
- * [x] User can choose between at least three tip tiers (15%, 18%, 20%)
- * [x] User can set a persistant default tip value in the settings screen
+ * [x] User can enter total bill amount
+ * [x] User can choose between at least three tip tiers (e.g. 15%, 18%, 20%) and see the total tip 
+ * [x] User can see the total with tip
 
 ### Optional
 
- * [x] Add custom styling to the calculator inputs
- * [ ] Remember the bill amount when the user re-opens the browser
- * [ ] Use locale specific currency and currency separators.
+ * [x] Add custom CSS to the calculator inputs
  * [ ] Add a light/dark color theme toggle on the page
+ * [ ] User can enter tax amount
+ * [ ] Page is optimized for the viewport/browser size (i.e. scales to mobile & desktop sizes)
+ * [ ] Remember the previous bill amount when the user re-opens the browser
+ * [ ] Use locale specific currency and currency separators.
 
 ### Extra
 
- * Anything extra?
+ * Any extra features not mentioned?
  
-Notes:
-
-Spent some additional time researching and playing with color options, and looking at 
 
 ## GIF Walkthrough
 
@@ -38,3 +38,7 @@ Spent some additional time researching and playing with color options, and looki
 ```
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/).
+
+## Notes
+
+Tell us more about your journey here or resources used. e.g. "Spent some additional time researching and playing with color options via CSS, and looking at MDN to understand localStorage."
